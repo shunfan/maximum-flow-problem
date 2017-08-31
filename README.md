@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Java implementation of several maximum flow algorithms that include three preflow-push algorithm and the shortest augmenting path algorithm:
+A Java implementation of several maximum flow algorithms that include three preflow-push algorithms and the shortest augmenting path algorithm:
 
 * [Abstract Algorithm](https://github.com/shunfan/maximum-flow-algorithm/blob/master/src/algorithms/AbstractAlgorithm.java)
   * [Abstract Preflow Push Algorithm](https://github.com/shunfan/maximum-flow-algorithm/blob/master/src/algorithms/AbstractPreflowPushAlgorithm.java)
